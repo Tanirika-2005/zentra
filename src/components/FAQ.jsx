@@ -7,10 +7,6 @@ const faqs = [
     answer: "No. The simulation engine is a strategic force multiplier. It allows you to rapidly stress-test value propositions, optimize pricing, and eliminate obvious market failures in minutes. Real-world validation remains essential, but you'll only spend those resources on highly targeted, de-risked hypotheses."
   },
   {
-    question: "How accurate are ISBP simulations compared to real ones?",
-    answer: "Across our independent comparison studies, parity sits between 85% and 92% depending on audience type, measured across thematic overlap, depth, and qualitative alignment. We publish the methodology and the gaps openly in our /science section."
-  },
-  {
     question: "How is this different from just prompting ChatGPT?",
     answer: "ChatGPT is a single text-generation agent without audience definition or behavioral guardrails. Our platform is a multi-agent simulation engine that models complete demographic cohorts, allowing thousands of distinct personas to deliberate dynamically and generate predictive market data."
   },
