@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
-import Metrics from './components/Metrics';
+
 import UseCases from './components/UseCases';
 import WhoItsFor from './components/WhoItsFor';
 import HowItWorks from './components/HowItWorks';
@@ -14,7 +14,7 @@ function App() {
       <Navbar />
       <main>
         <Hero />
-        <Metrics />
+
         <UseCases />
         <WhoItsFor />
         <HowItWorks />
