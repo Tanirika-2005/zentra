@@ -11,7 +11,7 @@ const faqs = [
     answer: "ChatGPT is a single text-generation agent without audience definition or behavioral guardrails. Our platform is a multi-agent simulation engine that models complete demographic cohorts, allowing thousands of distinct personas to deliberate dynamically and generate predictive market data."
   },
   {
-    question: "How many synthetic interviews do I need to run?",
+    question: "How many agents do I need?",
     answer: "50–100 agents deliver clear, segmented results in under 5 minutes — enough to see how different income groups react to a price change or market shock. For research that needs to match traditional survey precision, scale to 300–500 agents — the statistical equivalent of a 1,500-person field study, delivered in minutes instead of weeks. Every agent comes with a full reasoning trace, so you see why they decided, not just what they picked."
   },
   {
