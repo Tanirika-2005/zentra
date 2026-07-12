@@ -3,8 +3,8 @@ import './FAQ.css';
 
 const faqs = [
   {
-    question: "Is Mudivu meant to transform real user research?",
-    answer: "It allows you to rapidly stress-test value propositions, optimize pricing, and eliminate obvious market failures in the Indian context within minutes. Real-world validation remains essential, but you'll only spend those resources on highly targeted, de-risked hypotheses."
+    question: "Can this replace traditional market research?",
+    answer: "It's designed to. A typical consumer survey takes 4–6 weeks, costs lakhs, and can only test scenarios you've already committed to. With synthetic agents grounded in real demographic data, you can test unlimited \"what if\" scenarios on demand — new pricing, new markets, policy changes — and get segmented, explainable results the same day. Run the survey that would have taken a month, then run five more before lunch."
   },
   {
     question: "How is this different from just prompting ChatGPT?",
