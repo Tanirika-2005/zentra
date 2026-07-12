@@ -3,8 +3,8 @@ import './FAQ.css';
 
 const faqs = [
   {
-    question: "Is Mudivu meant to replace real user research?",
-    answer: "No. Mudivu's simulation engine is a strategic force multiplier. It allows you to rapidly stress-test value propositions, optimize pricing, and eliminate obvious market failures in the Indian context within minutes. Real-world validation remains essential, but you'll only spend those resources on highly targeted, de-risked hypotheses."
+    question: "Is Mudivu meant to transform real user research?",
+    answer: "It allows you to rapidly stress-test value propositions, optimize pricing, and eliminate obvious market failures in the Indian context within minutes. Real-world validation remains essential, but you'll only spend those resources on highly targeted, de-risked hypotheses."
   },
   {
     question: "How is this different from just prompting ChatGPT?",
@@ -12,7 +12,7 @@ const faqs = [
   },
   {
     question: "How many synthetic interviews do I need to run?",
-    answer: "For qualitative work, 10–12 well-defined participants typically reach saturation — and our saturation score lets you see when new participants stop adding novel themes. For quantitative confidence, you can scale to hundreds in the same study."
+    answer: "50–100 agents deliver clear, segmented results in under 5 minutes — enough to see how different income groups react to a price change or market shock. For research that needs to match traditional survey precision, scale to 300–500 agents — the statistical equivalent of a 1,500-person field study, delivered in minutes instead of weeks. Every agent comes with a full reasoning trace, so you see why they decided, not just what they picked."
   },
   {
     question: "Can I use my own data to ground the participants?",
