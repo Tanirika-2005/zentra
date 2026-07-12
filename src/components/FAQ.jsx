@@ -15,8 +15,8 @@ const faqs = [
     answer: "For qualitative work, 10–12 well-defined participants typically reach saturation — and our saturation score lets you see when new participants stop adding novel themes. For quantitative confidence, you can scale to hundreds in the same study."
   },
   {
-    question: "Can I use my own localized Indian data to ground the personas?",
-    answer: "Absolutely. You can securely feed your own regional transcripts, market reports, and proprietary customer conversations straight into the Mudivu engine. Your data remains 100% yours; we never train shared models on your private context, ensuring complete confidentiality while giving you highly specific cultural insights."
+    question: "Can I use my own data to ground the participants?",
+    answer: "Absolutely. Our native MCP integration allows you to feed your own transcripts, customer conversations, and proprietary data straight into the engine. Your data remains 100% yours; we never train shared models on your private context."
   }
 ];
 
