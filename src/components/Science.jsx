@@ -16,8 +16,8 @@ const Science = () => {
         <div className="science-grid">
           <a href="#" className="science-card">
             <p className="card-category">WHAT THE RESEARCH SAYS</p>
-            <h3 className="card-title">21 Peer reviewed papers that support the ISBP thesis</h3>
-            <p className="card-text">Here is a compilation of all the papers that help make a case for ISBP.</p>
+            <h3 className="card-title">21 Peer reviewed papers that support the Mudivu thesis</h3>
+            <p className="card-text">Here is a compilation of all the papers that help make a case for Mudivu.</p>
             <span className="card-link">Read article &rarr;</span>
           </a>
           

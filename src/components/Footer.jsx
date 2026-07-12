@@ -19,8 +19,8 @@ const Footer = () => {
       <footer className="dark-footer">
         <div className="container dark-footer-layout">
           <div className="dark-footer-left">
-            <h3 className="dark-footer-brand">ISBP</h3>
-            <p className="dark-footer-copy">© 2026 ISBP Inc. All rights reserved.</p>
+            <h3 className="dark-footer-brand">Mudivu</h3>
+            <p className="dark-footer-copy">© 2026 Mudivu Inc. All rights reserved.</p>
           </div>
           <div className="dark-footer-right">
             <a href="#" className="social-btn" aria-label="LinkedIn">

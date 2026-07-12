@@ -17,7 +17,7 @@ const Navbar = () => {
       <div className="navbar-container">
         <a href="/" className="navbar-logo">
           {/* Using a text logo as placeholder */}
-          <span className="logo-text">ISBP</span>
+          <span className="logo-text">Mudivu</span>
         </a>
 
 
