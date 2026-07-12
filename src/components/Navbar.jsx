@@ -22,7 +22,7 @@ const Navbar = () => {
 
 
         <div className="navbar-actions">
-          <a href="#signin" className="nav-link hidden-mobile">Sign in</a>
+
           <a href="#demo" className="btn-primary">Book demo</a>
         </div>
       </div>
