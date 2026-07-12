@@ -3,8 +3,8 @@ import './FAQ.css';
 
 const faqs = [
   {
-    question: "Is this meant to replace real user research?",
-    answer: "No. The simulation engine is a strategic force multiplier. It allows you to rapidly stress-test value propositions, optimize pricing, and eliminate obvious market failures in minutes. Real-world validation remains essential, but you'll only spend those resources on highly targeted, de-risked hypotheses."
+    question: "Is Mudivu meant to replace real user research?",
+    answer: "No. Mudivu's simulation engine is a strategic force multiplier. It allows you to rapidly stress-test value propositions, optimize pricing, and eliminate obvious market failures in the Indian context within minutes. Real-world validation remains essential, but you'll only spend those resources on highly targeted, de-risked hypotheses."
   },
   {
     question: "How is this different from just prompting ChatGPT?",
@@ -15,8 +15,8 @@ const faqs = [
     answer: "For qualitative work, 10–12 well-defined participants typically reach saturation — and our saturation score lets you see when new participants stop adding novel themes. For quantitative confidence, you can scale to hundreds in the same study."
   },
   {
-    question: "Can I use my own data to ground the participants?",
-    answer: "Absolutely. Our native MCP integration allows you to feed your own transcripts, customer conversations, and proprietary data straight into the engine. Your data remains 100% yours; we never train shared models on your private context."
+    question: "Can I use my own localized Indian data to ground the personas?",
+    answer: "Absolutely. You can securely feed your own regional transcripts, market reports, and proprietary customer conversations straight into the Mudivu engine. Your data remains 100% yours; we never train shared models on your private context, ensuring complete confidentiality while giving you highly specific cultural insights."
   }
 ];
 
