@@ -20,19 +20,19 @@ const DecisionTree = () => {
 
   // Expanded coordinates for better spacing (1000x700 viewBox)
   const nodes = [
-    { id: 'root', x: 80, y: 350, label: 'HUMAN DECISION' },
+    { id: 'root', x: 150, y: 350, label: 'HUMAN DECISION' },
     
-    { id: 'values', x: 450, y: 150, label: 'VALUES' },
-    { id: 'culture', x: 450, y: 280, label: 'CULTURE' },
-    { id: 'peers', x: 450, y: 410, label: 'PEERS' },
-    { id: 'family', x: 450, y: 540, label: 'FAMILY' },
+    { id: 'values', x: 500, y: 150, label: 'VALUES' },
+    { id: 'culture', x: 500, y: 280, label: 'CULTURE' },
+    { id: 'peers', x: 500, y: 410, label: 'PEERS' },
+    { id: 'family', x: 500, y: 540, label: 'FAMILY' },
     
-    { id: 'brand', x: 880, y: 80, label: 'BRAND' },
-    { id: 'status', x: 880, y: 180, label: 'STATUS' },
-    { id: 'price', x: 880, y: 280, label: 'PRICE' },
-    { id: 'trust', x: 880, y: 380, label: 'TRUST' },
-    { id: 'feature', x: 880, y: 480, label: 'FEATURE' },
-    { id: 'risk', x: 880, y: 580, label: 'RISK' },
+    { id: 'brand', x: 850, y: 80, label: 'BRAND' },
+    { id: 'status', x: 850, y: 180, label: 'STATUS' },
+    { id: 'price', x: 850, y: 280, label: 'PRICE' },
+    { id: 'trust', x: 850, y: 380, label: 'TRUST' },
+    { id: 'feature', x: 850, y: 480, label: 'FEATURE' },
+    { id: 'risk', x: 850, y: 580, label: 'RISK' },
   ];
 
   const edges = [

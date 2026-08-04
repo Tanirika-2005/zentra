@@ -169,3 +169,34 @@
   50% { opacity: 0.5; transform: scale(1.1); box-shadow: 0 0 0 4px rgba(239, 68, 68, 0); }
   100% { opacity: 1; transform: scale(1); box-shadow: 0 0 0 0 rgba(239, 68, 68, 0); }
 }
+
+@media (max-width: 768px) {
+  .dt-container {
+    aspect-ratio: 4 / 5;
+    margin-top: 2rem;
+  }
+  .dt-pill {
+    padding: 0.35rem 0.5rem;
+    font-size: 0.55rem;
+    border-radius: 4px;
+    letter-spacing: 0.04em;
+  }
+  .dt-pill:hover, .dt-pill.active {
+    transform: translate(-50%, -50%) scale(1.05);
+  }
+  .dt-tooltip {
+    max-width: 280px;
+    font-size: 0.75rem;
+    padding: 0.75rem 1rem;
+    bottom: -3rem;
+  }
+  .dt-caption {
+    font-size: 0.6rem;
+    top: -2rem;
+    left: 0;
+  }
+  .dt-caption-badge {
+    padding: 0.15rem 0.4rem;
+    font-size: 0.55rem;
+  }
+}
